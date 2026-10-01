@@ -1,6 +1,6 @@
 # Astro and Tailwind
 
-This demo shows the use of the Vite Tailwind plugin in Astro, which was installed using the `npx astro add tailwind` command based ont the instructions at [Astro Docs - Tailwind - Add Tailwind 4](https://docs.astro.build/en/guides/styling/#tailwind)
+This demo shows the use of the Vite Tailwind plugin in Astro, which was installed using the `npx astro add tailwind` command based on the instructions at [Astro Docs - Tailwind - Add Tailwind 4](https://docs.astro.build/en/guides/styling/#tailwind)
 
 The [Tailwind docs](https://tailwindcss.com/docs/styling-with-utility-classes) are great to learn core concepts and as a reference for the utility styles available.
 
