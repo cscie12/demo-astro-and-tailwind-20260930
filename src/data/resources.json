@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "title": "HTML5",
+      "description": "The standard markup language for creating web pages."
+    },
+    {
+      "title": "CSS3",
+      "description": "Style your web pages with modern layouts and animations."
+    },
+    {
+      "title": "JavaScript",
+      "description": "Add interactivity and dynamic content to your sites, and use JavaScript based build tools."
+    },
+    {
+      "title": "Node.js",
+      "description": "Run JavaScript on the server for scalable web apps and locally for building sites."
+    },
+    {
+      "title": "Tailwind CSS",
+      "description": "A utility-first CSS framework for rapid UI development."
+    },
+    {
+      "title": "Vue.js",
+      "description": "A progressive JavaScript framework for building user interfaces."
+    },
+    {
+      "title": "Git and GitHub",
+      "description": "Version control system for tracking code changes."
+    },
+    {
+      "title": "VS Code",
+      "description": "Visual Studio Code provides developers with a new choice of tool that combines the simplicity of a code editor with the best tooling for their core edit-build-debug cycle."
+    },
+    {
+      "title": "Astro",
+      "description": "Astro is a JavaScript web framework optimized for building fast, content-driven websites."
+    }
+  ]
+}

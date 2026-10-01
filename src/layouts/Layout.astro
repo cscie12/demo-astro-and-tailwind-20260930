@@ -1,0 +1,26 @@
+---
+import "../styles/global.css";
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>Web Technologies and Tools</title>
+  </head>
+  <body class="bg-cyan-50">
+    <header class="p-4 text-6xl text-pink-400">
+      Web Technologies and Tools
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="p-4 border-t-cyan-400 mt-4 border-t-2">
+      <p class="my-2">
+        This is an example from CSCI E-12, Fundamentals of Web Application Development.
+      </p>
+    </footer>
+  </body>
+</html>
